@@ -1,0 +1,920 @@
+{
+	"lists": [
+	  {
+		"codCausa": 1,
+		"descripcion": "CAUSAS INMEDIATAS",
+		"condiciones": [
+		  {
+			"codCondicion": 1,
+			"descripcion": "Acciones SubEstandar",
+			"analisisCausas": [
+			  {
+				"codAnalisisCausa": 1,
+				"descripcion": "Operar equipos sin autorización"
+			  },
+			  {
+				"codAnalisisCausa": 2,
+				"descripcion": "Operar  equipo a velocidad inadecuada"
+			  },
+			  {
+				"codAnalisisCausa": 3,
+				"descripcion": "No Avisar"
+			  },
+			  {
+				"codAnalisisCausa": 4,
+				"descripcion": "No Advertir"
+			  },
+			  {
+				"codAnalisisCausa": 5,
+				"descripcion": "No Asegurar"
+			  },
+			  {
+				"codAnalisisCausa": 6,
+				"descripcion": "Desactivar Dispositivos de Seguridad"
+			  },
+			  {
+				"codAnalisisCausa": 7,
+				"descripcion": "Usar Equipos y Herramientas Defectuosos"
+			  },
+			  {
+				"codAnalisisCausa": 8,
+				"descripcion": "Uso inadecuado o no uso de EPP"
+			  },
+			  {
+				"codAnalisisCausa": 9,
+				"descripcion": "Cargar  Incorrectamente"
+			  },
+			  {
+				"codAnalisisCausa": 10,
+				"descripcion": "Ubicación Incorrecta"
+			  },
+			  {
+				"codAnalisisCausa": 11,
+				"descripcion": "Levantar Incorrectamente"
+			  },
+			  {
+				"codAnalisisCausa": 12,
+				"descripcion": "Posición Inadecuada para el Trabajo o la Tarea"
+			  },
+			  {
+				"codAnalisisCausa": 13,
+				"descripcion": "Dar mantenimiento a equipo en operación"
+			  },
+			  {
+				"codAnalisisCausa": 14,
+				"descripcion": "Jugar en el trabajo"
+			  },
+			  {
+				"codAnalisisCausa": 15,
+				"descripcion": "Usar equipo inadecuadamente"
+			  },
+			  {
+				"codAnalisisCausa": 16,
+				"descripcion": "Trabajo bajo la Influencia del Alcohol y/u otras Drogas"
+			  },
+			  {
+				"codAnalisisCausa": 17,
+				"descripcion": "Maniobra incorrecta"
+			  },
+			  {
+				"codAnalisisCausa": 18,
+				"descripcion": "Uso inapropiado de herramientas"
+			  },
+			  {
+				"codAnalisisCausa": 19,
+				"descripcion": "Evaluación de riesgos deficiente por parte del personal"
+			  },
+			  {
+				"codAnalisisCausa": 20,
+				"descripcion": "Control inadecuado de energía (bloqueo/etiquetado)"
+			  },
+			  {
+				"codAnalisisCausa": 21,
+				"descripcion": "Instrumentos mal interpretados / mal leídos"
+			  },
+			  {
+				"codAnalisisCausa": 22,
+				"descripcion": "Hechos de violencia"
+			  },
+			  {
+				"codAnalisisCausa": 23,
+				"descripcion": "Exponerse a la línea de fuego"
+			  },
+			  {
+				"codAnalisisCausa": 24,
+				"descripcion": "No uso de los 3 puntos de apoyo"
+			  },
+			  {
+				"codAnalisisCausa": 25,
+				"descripcion": "Intento por realizar tareas múltiples en forma simultánea"
+			  },
+			  {
+				"codAnalisisCausa": 26,
+				"descripcion": "Otro"
+			  }
+			]
+		  },
+		  {
+			"codCondicion": 2,
+			"descripcion": "Condiciones SubEstandar",
+			"analisisCausas": [
+			  {
+				"codAnalisisCausa": 27,
+				"descripcion": "Protección inadecuadas, defectuosa o inexistente"
+			  },
+			  {
+				"codAnalisisCausa": 28,
+				"descripcion": "Paredes, techos, etc.  inestables"
+			  },
+			  {
+				"codAnalisisCausa": 29,
+				"descripcion": "Caminos, pisos, superficies inadecuadas."
+			  },
+			  {
+				"codAnalisisCausa": 30,
+				"descripcion": "Equipo de protección personal  inadecuado."
+			  },
+			  {
+				"codAnalisisCausa": 31,
+				"descripcion": "Herramientas, Equipos, Materiales Defectuosos o sin calibración."
+			  },
+			  {
+				"codAnalisisCausa": 32,
+				"descripcion": "Congestión o Acción Restringida"
+			  },
+			  {
+				"codAnalisisCausa": 33,
+				"descripcion": "Alarmas, Sirenas, Sistemas de Advertencia Inadecuado  o defectuosos"
+			  },
+			  {
+				"codAnalisisCausa": 34,
+				"descripcion": "Peligros de Incendio y Explosión"
+			  },
+			  {
+				"codAnalisisCausa": 35,
+				"descripcion": "Limpieza y Orden deficientes"
+			  },
+			  {
+				"codAnalisisCausa": 36,
+				"descripcion": "Exceso de Ruido"
+			  },
+			  {
+				"codAnalisisCausa": 37,
+				"descripcion": "Exceso de Radiación"
+			  },
+			  {
+				"codAnalisisCausa": 38,
+				"descripcion": "Temperaturas Extremas"
+			  },
+			  {
+				"codAnalisisCausa": 39,
+				"descripcion": "Peligros ergonómicos"
+			  },
+			  {
+				"codAnalisisCausa": 40,
+				"descripcion": "Excesiva o inadecuada iluminación"
+			  },
+			  {
+				"codAnalisisCausa": 41,
+				"descripcion": "Ventilación Inadecuada"
+			  },
+			  {
+				"codAnalisisCausa": 42,
+				"descripcion": "Condiciones Ambientales Peligrosas"
+			  },
+			  {
+				"codAnalisisCausa": 43,
+				"descripcion": "Dispositivos de seguridad inadecuados / defectuosos"
+			  },
+			  {
+				"codAnalisisCausa": 44,
+				"descripcion": "Sistemas y Equipos energizados"
+			  },
+			  {
+				"codAnalisisCausa": 45,
+				"descripcion": "Productos químicos peligrosos"
+			  },
+			  {
+				"codAnalisisCausa": 46,
+				"descripcion": "Altura desprotegida"
+			  },
+			  {
+				"codAnalisisCausa": 47,
+				"descripcion": "Derrame"
+			  },
+			  {
+				"codAnalisisCausa": 48,
+				"descripcion": "Otro"
+			  }
+			]
+		  }
+		]
+	  },
+	  {
+		"codCausa": 2,
+		"descripcion": "CAUSAS BASICA - FACTOR DE TRABAJO",
+		"condiciones": [
+		  {
+			"codCondicion": 3,
+			"descripcion": "Liderazgo y/o Supervisión inadecuados",
+			"analisisCausas": [
+			  {
+				"codAnalisisCausa": 49,
+				"descripcion": "Ausencia de supervisión"
+			  },
+			  {
+				"codAnalisisCausa": 50,
+				"descripcion": "Relaciones jerárquicas confusas o contradictorias"
+			  },
+			  {
+				"codAnalisisCausa": 51,
+				"descripcion": "Asignación de responsabilidades confusas o conflictivas"
+			  },
+			  {
+				"codAnalisisCausa": 52,
+				"descripcion": "Delegación inapropiada o insuficiente"
+			  },
+			  {
+				"codAnalisisCausa": 53,
+				"descripcion": "Entregar política, procediminetos, prácticas o guías inadecuadas"
+			  },
+			  {
+				"codAnalisisCausa": 54,
+				"descripcion": "Dar objetivos, metas o estándares contradictorios"
+			  },
+			  {
+				"codAnalisisCausa": 55,
+				"descripcion": "Presion para  culminar la tarea"
+			  },
+			  {
+				"codAnalisisCausa": 56,
+				"descripcion": "Planificación o programación inadecuada del trabajo."
+			  },
+			  {
+				"codAnalisisCausa": 57,
+				"descripcion": "Instrucciones, orientación y/o entrenamiento inadecuado"
+			  },
+			  {
+				"codAnalisisCausa": 58,
+				"descripcion": "Proveer datos de referencia, directivas y public. de orientación inadecuada"
+			  },
+			  {
+				"codAnalisisCausa": 59,
+				"descripcion": "Identificación y evaluación inadecuada de exposición a pérdidas"
+			  },
+			  {
+				"codAnalisisCausa": 60,
+				"descripcion": "Falta de conocimiento del trabajo por la supervisión / gerencia"
+			  },
+			  {
+				"codAnalisisCausa": 61,
+				"descripcion": "Calificaciones  individuales incompatibles con los requisitos del trabajo/tarea."
+			  },
+			  {
+				"codAnalisisCausa": 62,
+				"descripcion": "Medición y evaluación inadecuada del desempeño"
+			  },
+			  {
+				"codAnalisisCausa": 63,
+				"descripcion": "Retroalimentación inadecuada o incorrecta del desempeño"
+			  }
+			]
+		  },
+		  {
+			"codCondicion": 4,
+			"descripcion": "Ingeniería Inadecuada",
+			"analisisCausas": [
+			  {
+				"codAnalisisCausa": 64,
+				"descripcion": "Valoración inadecuada de exposición a pérdidas"
+			  },
+			  {
+				"codAnalisisCausa": 65,
+				"descripcion": "Consideración inadecuada  del factor humano / ergonomía"
+			  },
+			  {
+				"codAnalisisCausa": 66,
+				"descripcion": "Estándares, especificaciones y / o criterios de diseño inadecuados"
+			  },
+			  {
+				"codAnalisisCausa": 67,
+				"descripcion": "Inadecuado Monitoreo de la construcción"
+			  },
+			  {
+				"codAnalisisCausa": 68,
+				"descripcion": "Valoración inadecuada de la disponibilidad operativa"
+			  },
+			  {
+				"codAnalisisCausa": 69,
+				"descripcion": "Controles Inadecuados o inapropiados"
+			  },
+			  {
+				"codAnalisisCausa": 70,
+				"descripcion": "Monitoreo Inadecuado de la operación Inicial"
+			  },
+			  {
+				"codAnalisisCausa": 71,
+				"descripcion": "Inadecuada evaluación de los cambios"
+			  }
+			]
+		  },
+		  {
+			"codCondicion": 5,
+			"descripcion": "Compras y Adquisiciones Inadecuadas ",
+			"analisisCausas": [
+			  {
+				"codAnalisisCausa": 72,
+				"descripcion": "Especificaciones inadecuadas en las requisiciones"
+			  },
+			  {
+				"codAnalisisCausa": 73,
+				"descripcion": "Selección inadecuada de materiales o equipos"
+			  },
+			  {
+				"codAnalisisCausa": 74,
+				"descripcion": "Especificaciones inadecuadas a los proveedores"
+			  },
+			  {
+				"codAnalisisCausa": 75,
+				"descripcion": "Modo o ruta de embarque inadecuado"
+			  },
+			  {
+				"codAnalisisCausa": 76,
+				"descripcion": "Inspección y aceptación de recibos inadecuados"
+			  },
+			  {
+				"codAnalisisCausa": 77,
+				"descripcion": "Inadecuada comunicación de datos de prevención de pérdidas y salud"
+			  },
+			  {
+				"codAnalisisCausa": 78,
+				"descripcion": "Manipulación incorrecta de materiales"
+			  },
+			  {
+				"codAnalisisCausa": 79,
+				"descripcion": "Almacenamiento inapropiado de materiales"
+			  },
+			  {
+				"codAnalisisCausa": 80,
+				"descripcion": "Transporte incorrecto de materiales"
+			  },
+			  {
+				"codAnalisisCausa": 81,
+				"descripcion": "Identificación inadecuada de artículos peligrosos"
+			  },
+			  {
+				"codAnalisisCausa": 82,
+				"descripcion": "Eliminación incorrecta de desechos"
+			  },
+			  {
+				"codAnalisisCausa": 83,
+				"descripcion": "Selección inadecuada de contratistas"
+			  }
+			]
+		  },
+		  {
+			"codCondicion": 6,
+			"descripcion": "Mantenimiento Inadecuado ",
+			"analisisCausas": [
+			  {
+				"codAnalisisCausa": 84,
+				"descripcion": "Mantenimiento preventivo inadecuado"
+			  },
+			  {
+				"codAnalisisCausa": 85,
+				"descripcion": "Evaluación inadecuada de necesidad de mantenimiento"
+			  },
+			  {
+				"codAnalisisCausa": 86,
+				"descripcion": "Inadecuada lubricación y servicios"
+			  },
+			  {
+				"codAnalisisCausa": 87,
+				"descripcion": "Ajuste / Ensamblaje inadecuado"
+			  },
+			  {
+				"codAnalisisCausa": 88,
+				"descripcion": "Limpieza o recubrimiento de superficie"
+			  },
+			  {
+				"codAnalisisCausa": 89,
+				"descripcion": "Inadecuada comunicación de necesidades"
+			  },
+			  {
+				"codAnalisisCausa": 90,
+				"descripcion": "Programación del trabajo inadecuada"
+			  },
+			  {
+				"codAnalisisCausa": 91,
+				"descripcion": "Inspección de las unidades inadecuado"
+			  },
+			  {
+				"codAnalisisCausa": 92,
+				"descripcion": "Sustitución de partes"
+			  }
+			]
+		  },
+		  {
+			"codCondicion": 7,
+			"descripcion": "Herramientas y Equipo Inadecuados ",
+			"analisisCausas": [
+			  {
+				"codAnalisisCausa": 93,
+				"descripcion": "Evaluación inadecuada de necesidades y riesgos"
+			  },
+			  {
+				"codAnalisisCausa": 94,
+				"descripcion": "Inadecuada consideración de factores humanos / ergonomía"
+			  },
+			  {
+				"codAnalisisCausa": 95,
+				"descripcion": "Estándares o especificaciones inadecuados"
+			  },
+			  {
+				"codAnalisisCausa": 96,
+				"descripcion": "Disponibilidad inadecuada"
+			  },
+			  {
+				"codAnalisisCausa": 97,
+				"descripcion": "Ajuste / reparación / mantenimiento inadecuado"
+			  },
+			  {
+				"codAnalisisCausa": 98,
+				"descripcion": "Recuperación y rehabilitación inadecuados"
+			  },
+			  {
+				"codAnalisisCausa": 99,
+				"descripcion": "Inadecuada remoción y reemplazo inadecuado de artículos inapropiados"
+			  }
+			]
+		  },
+		  {
+			"codCondicion": 8,
+			"descripcion": "Procedimientos y Normas de trabajo Inadecuados   ",
+			"analisisCausas": [
+			  {
+				"codAnalisisCausa": 100,
+				"descripcion": "Desarrollo inadecuado de procedimientos y normas de trabajo"
+			  },
+			  {
+				"codAnalisisCausa": 101,
+				"descripcion": "Procedimientos/prácticas/reglas inadecuadas"
+			  },
+			  {
+				"codAnalisisCausa": 102,
+				"descripcion": "Comunicación inadecuada de procedimientos o estándares de trabajo"
+			  },
+			  {
+				"codAnalisisCausa": 103,
+				"descripcion": "Inadecuado uso de señales, cód. de colores"
+			  },
+			  {
+				"codAnalisisCausa": 104,
+				"descripcion": "Traducción inadecuada de estándares"
+			  },
+			  {
+				"codAnalisisCausa": 105,
+				"descripcion": "Mantenimiento y actualización inadecuada de Normas"
+			  },
+			  {
+				"codAnalisisCausa": 106,
+				"descripcion": "Monitoreo y obs. inadecuada del cumplimiento de proced. / prácticas / reglas"
+			  }
+			]
+		  },
+		  {
+			"codCondicion": 9,
+			"descripcion": "Desgaste excesivo  ",
+			"analisisCausas": [
+			  {
+				"codAnalisisCausa": 107,
+				"descripcion": "Planificación inadecuada de uso"
+			  },
+			  {
+				"codAnalisisCausa": 108,
+				"descripcion": "Extensión inapropiada de la vía útil"
+			  },
+			  {
+				"codAnalisisCausa": 109,
+				"descripcion": "Inspección y/o Monitoreo inadecuado"
+			  },
+			  {
+				"codAnalisisCausa": 110,
+				"descripcion": "Carga o ritmo inapropiado de uso"
+			  },
+			  {
+				"codAnalisisCausa": 111,
+				"descripcion": "Mantenimiento Inadecuado"
+			  },
+			  {
+				"codAnalisisCausa": 112,
+				"descripcion": "Uso por personal no calificado o no entrenado"
+			  },
+			  {
+				"codAnalisisCausa": 113,
+				"descripcion": "Uso para  propósito equivocado"
+			  }
+			]
+		  },
+		  {
+			"codCondicion": 10,
+			"descripcion": "Abuso o Mal Uso ",
+			"analisisCausas": [
+			  {
+				"codAnalisisCausa": 114,
+				"descripcion": "Apropiada conducta  que no es perdonada"
+			  },
+			  {
+				"codAnalisisCausa": 115,
+				"descripcion": "Inapropiada conducta  que es perdonada"
+			  }
+			]
+		  },
+		  {
+			"codCondicion": 11,
+			"descripcion": "Otro",
+			"analisisCausas": [
+			  {
+				"codAnalisisCausa": 116,
+				"descripcion": "Otros"
+			  }
+			]
+		  }
+		]
+	  },
+	  {
+		"codCausa": 3,
+		"descripcion": "CAUSAS BASICA - FACTOR PERSONAL",
+		"condiciones": [
+		  {
+			"codCondicion": 12,
+			"descripcion": "Falta de Control",
+			"analisisCausas": [
+			  {
+				"codAnalisisCausa": 117,
+				"descripcion": "Estatura, peso, tamaño, fuerza, alcance, etc. Inadecuados"
+			  },
+			  {
+				"codAnalisisCausa": 118,
+				"descripcion": "Rango restringido de movimiento corporal"
+			  },
+			  {
+				"codAnalisisCausa": 119,
+				"descripcion": "Capacidad limitada para mantener posiciones del cuerpo"
+			  },
+			  {
+				"codAnalisisCausa": 120,
+				"descripcion": "Sensibilidad o Alergias  a sustancias"
+			  },
+			  {
+				"codAnalisisCausa": 121,
+				"descripcion": "Sensibilidad a determinados extremos sensoriales "
+			  },
+			  {
+				"codAnalisisCausa": 122,
+				"descripcion": "Visión Defectuosa"
+			  },
+			  {
+				"codAnalisisCausa": 123,
+				"descripcion": "Audición Defectuosa  "
+			  },
+			  {
+				"codAnalisisCausa": 124,
+				"descripcion": "Otras Deficiencias sensoriales (tacto, gusto, olfato, equilibrio)"
+			  },
+			  {
+				"codAnalisisCausa": 125,
+				"descripcion": "Incapacidad respiratoria"
+			  },
+			  {
+				"codAnalisisCausa": 126,
+				"descripcion": "Incapacidades temporales"
+			  }
+			]
+		  },
+		  {
+			"codCondicion": 13,
+			"descripcion": "Capacidad mental / psicológica inadecuada ",
+			"analisisCausas": [
+			  {
+				"codAnalisisCausa": 127,
+				"descripcion": "Miedos y Fobias"
+			  },
+			  {
+				"codAnalisisCausa": 128,
+				"descripcion": "Problemas Emocionales"
+			  },
+			  {
+				"codAnalisisCausa": 129,
+				"descripcion": "Enfermedad mental"
+			  },
+			  {
+				"codAnalisisCausa": 130,
+				"descripcion": "Nivel de inteligencia"
+			  },
+			  {
+				"codAnalisisCausa": 131,
+				"descripcion": "Mal discernimiento"
+			  },
+			  {
+				"codAnalisisCausa": 132,
+				"descripcion": "Mala coordinación"
+			  },
+			  {
+				"codAnalisisCausa": 133,
+				"descripcion": "Tiempo lento de reacción"
+			  },
+			  {
+				"codAnalisisCausa": 134,
+				"descripcion": "Aptitud mecánica deficiente"
+			  },
+			  {
+				"codAnalisisCausa": 135,
+				"descripcion": "Baja aptitud para el aprendizaje"
+			  },
+			  {
+				"codAnalisisCausa": 136,
+				"descripcion": "Problemas de memoria  "
+			  },
+			  {
+				"codAnalisisCausa": 166,
+				"descripcion": "Incapacidad para comprender"
+			  }
+			]
+		  },
+		  {
+			"codCondicion": 14,
+			"descripcion": "Estrés Físico o fisiológico",
+			"analisisCausas": [
+			  {
+				"codAnalisisCausa": 137,
+				"descripcion": "Lesión o enfermedad"
+			  },
+			  {
+				"codAnalisisCausa": 138,
+				"descripcion": "Fatiga debida a carga o duración de la tarea"
+			  },
+			  {
+				"codAnalisisCausa": 139,
+				"descripcion": "Fatiga debida a sobrecarga sensorial"
+			  },
+			  {
+				"codAnalisisCausa": 140,
+				"descripcion": "Exposición a peligros para la salud "
+			  },
+			  {
+				"codAnalisisCausa": 141,
+				"descripcion": "Exposición a temperaturas extremas"
+			  },
+			  {
+				"codAnalisisCausa": 142,
+				"descripcion": "Deficiencia de oxigeno"
+			  },
+			  {
+				"codAnalisisCausa": 143,
+				"descripcion": "Variación de la presión atmosférica"
+			  },
+			  {
+				"codAnalisisCausa": 144,
+				"descripcion": "Restricción de Movimiento"
+			  },
+			  {
+				"codAnalisisCausa": 145,
+				"descripcion": "Insuficiencia de azúcar en la sangre"
+			  },
+			  {
+				"codAnalisisCausa": 146,
+				"descripcion": "Drogas"
+			  },
+			  {
+				"codAnalisisCausa": 167,
+				"descripcion": "Fatiga debida a falta de descanso"
+			  }
+			]
+		  },
+		  {
+			"codCondicion": 15,
+			"descripcion": "Estrés Mental o Psicológico",
+			"analisisCausas": [
+			  {
+				"codAnalisisCausa": 147,
+				"descripcion": "Sobrecarga Emocional"
+			  },
+			  {
+				"codAnalisisCausa": 148,
+				"descripcion": "Discernimiento Extremo"
+			  },
+			  {
+				"codAnalisisCausa": 149,
+				"descripcion": "Rutina, monotonía, Demanda de vigilancia aburrida"
+			  },
+			  {
+				"codAnalisisCausa": 150,
+				"descripcion": "Exigencia extrema de concentración"
+			  },
+			  {
+				"codAnalisisCausa": 151,
+				"descripcion": "Actividad sin \"sentido\" o \"degradantes\"  "
+			  },
+			  {
+				"codAnalisisCausa": 152,
+				"descripcion": "Instrucciones / exigencias confusas"
+			  },
+			  {
+				"codAnalisisCausa": 153,
+				"descripcion": "Instrucciones / Exigencias conflictivas"
+			  },
+			  {
+				"codAnalisisCausa": 154,
+				"descripcion": "Preocupación por problemas"
+			  },
+			  {
+				"codAnalisisCausa": 155,
+				"descripcion": "Frustración"
+			  },
+			  {
+				"codAnalisisCausa": 156,
+				"descripcion": "Enfermedad mental"
+			  },
+			  {
+				"codAnalisisCausa": 168,
+				"descripcion": "Fatiga"
+			  }
+			]
+		  },
+		  {
+			"codCondicion": 16,
+			"descripcion": "Falta de Conocimiento",
+			"analisisCausas": [
+			  {
+				"codAnalisisCausa": 157,
+				"descripcion": "Orientación Deficiente  "
+			  },
+			  {
+				"codAnalisisCausa": 158,
+				"descripcion": "Entrenamiento Inicial Inadecuado"
+			  },
+			  {
+				"codAnalisisCausa": 159,
+				"descripcion": "Entrenamiento de actualización Inadecuado"
+			  },
+			  {
+				"codAnalisisCausa": 160,
+				"descripcion": "Ordenes Mal Interpretadas"
+			  },
+			  {
+				"codAnalisisCausa": 169,
+				"descripcion": "Falta de experiencia"
+			  }
+			]
+		  },
+		  {
+			"codCondicion": 17,
+			"descripcion": "Falta de habilidad",
+			"analisisCausas": [
+			  {
+				"codAnalisisCausa": 161,
+				"descripcion": "Instrucción inicial inadecuada"
+			  },
+			  {
+				"codAnalisisCausa": 162,
+				"descripcion": "Práctica inadecuada"
+			  },
+			  {
+				"codAnalisisCausa": 163,
+				"descripcion": "Desempeño Infrecuente"
+			  },
+			  {
+				"codAnalisisCausa": 164,
+				"descripcion": "Falta de Entrenamiento"
+			  }
+			]
+		  },
+		  {
+			"codCondicion": 18,
+			"descripcion": "Motivación Inapropiada",
+			"analisisCausas": [
+			  {
+				"codAnalisisCausa": 165,
+				"descripcion": "El desempeño incorrecto es premiado"
+			  },
+			  {
+				"codAnalisisCausa": 170,
+				"descripcion": "El desempeño correcto es castigado"
+			  },
+			  {
+				"codAnalisisCausa": 171,
+				"descripcion": "Falta de incentivos"
+			  },
+			  {
+				"codAnalisisCausa": 172,
+				"descripcion": "Agresión"
+			  },
+			  {
+				"codAnalisisCausa": 173,
+				"descripcion": "Intento Incorrecto de ahorrar tiempo y/o esfuerzo"
+			  },
+			  {
+				"codAnalisisCausa": 174,
+				"descripcion": "Intento Incorrecto de evitar incomodidad"
+			  },
+			  {
+				"codAnalisisCausa": 175,
+				"descripcion": "Intento Incorrecto de llamar la atención"
+			  },
+			  {
+				"codAnalisisCausa": 176,
+				"descripcion": "Disciplina inadecuada"
+			  },
+			  {
+				"codAnalisisCausa": 177,
+				"descripcion": "Presión indebida de los compañeros"
+			  },
+			  {
+				"codAnalisisCausa": 178,
+				"descripcion": "Mal Ejemplo de la supervisión "
+			  },
+			  {
+				"codAnalisisCausa": 179,
+				"descripcion": "Retroalimentación inadecuada del desempeño"
+			  },
+			  {
+				"codAnalisisCausa": 180,
+				"descripcion": "Refuerzo inadecuado de la conducta correcta "
+			  }
+			]
+		  },
+		  {
+			"codCondicion": 19,
+			"descripcion": "Otro Factor Personal",
+			"analisisCausas": [
+			  {
+				"codAnalisisCausa": 181,
+				"descripcion": "Otros"
+			  }
+			]
+		  }
+		]
+	  },
+	  {
+		"codCausa": 4,
+		"descripcion": "FALTA DE CONTROL",
+		"condiciones": [
+		  {
+			"codCondicion": 20,
+			"descripcion": "SISTEMA/CULTURA",
+			"analisisCausas": [
+			  {
+				"codAnalisisCausa": 182,
+				"descripcion": "Herramientas (HE)"
+			  },
+			  {
+				"codAnalisisCausa": 183,
+				"descripcion": "Entrenamiento (EN)"
+			  },
+			  {
+				"codAnalisisCausa": 184,
+				"descripcion": "Organización (OR)"
+			  },
+			  {
+				"codAnalisisCausa": 185,
+				"descripcion": "Comunicación (CO)"
+			  },
+			  {
+				"codAnalisisCausa": 186,
+				"descripcion": "Metas Incompatibles (MI)"
+			  },
+			  {
+				"codAnalisisCausa": 187,
+				"descripcion": "Condiciones de Refuerzo de Errores (RE)"
+			  },
+			  {
+				"codAnalisisCausa": 188,
+				"descripcion": "Procedimientos (PR)"
+			  },
+			  {
+				"codAnalisisCausa": 189,
+				"descripcion": "Manejo de Mantenimiento (MM)"
+			  },
+			  {
+				"codAnalisisCausa": 190,
+				"descripcion": "Economía Doméstica (ED)"
+			  },
+			  {
+				"codAnalisisCausa": 191,
+				"descripcion": "Diseño (DI)"
+			  },
+			  {
+				"codAnalisisCausa": 192,
+				"descripcion": "Otro"
+			  },
+			  {
+				"codAnalisisCausa": 193,
+				"descripcion": "Defensas (DF)"
+			  }
+			]
+		  }
+		]
+	  }
+	]
+  }

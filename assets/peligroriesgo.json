@@ -1,0 +1,110 @@
+{
+    "data": [{
+            "codPeligro": "1",
+            "codRiesgo": "1",
+            "peligro": "Herramientas o maquinas electricas / neumaticas",
+            "riesgo": "Atrapamiento por, Contacto con"
+        },
+        {
+            "codPeligro": "2",
+            "codRiesgo": "2",
+            "peligro": "Herramientas u objetos en altura",
+            "riesgo": "Caidas de objetos"
+        },
+        {
+            "codPeligro": "3",
+            "codRiesgo": "3",
+            "peligro": "Neumaticos gigantes",
+            "riesgo": "Aplastamiento por, exposicion a"
+        },
+
+        {
+            "codPeligro": "4",
+            "codRiesgo": "4",
+            "peligro": "Objeto cortante / afilado",
+            "riesgo": "Contacto con objeto cortante"
+        },
+
+        {
+            "codPeligro": "5",
+            "codRiesgo": "5",
+            "peligro": "Objeto punzante",
+            "riesgo": "Contacto con objeto cortante"
+        },
+
+        {
+            "codPeligro": "6",
+            "codRiesgo": "6",
+            "peligro": "proyeccion de materiales",
+            "riesgo": "Incrustacion"
+        },
+
+        {
+            "codPeligro": "7",
+            "codRiesgo": "7",
+            "peligro": "Radiacion solar",
+            "riesgo": "Rayos UV"
+        },
+
+        {
+            "codPeligro": "8",
+            "codRiesgo": "8",
+            "peligro": "aceites / grasas",
+            "riesgo": "Contacto con"
+        },
+
+        {
+            "codPeligro": "9",
+            "codRiesgo": "9",
+            "peligro": "Combustibles",
+            "riesgo": "Incendios, Explosion, derrames"
+        },
+
+        {
+            "codPeligro": "10",
+            "codRiesgo": "10",
+            "peligro": "gases toxicos",
+            "riesgo": "Inhalacion o Exposicion a"
+        },
+
+        {
+            "codPeligro": "11",
+            "codRiesgo": "11",
+            "peligro": "Pulpas acidas",
+            "riesgo": "Salpicaduras"
+        },
+        {
+            "codPeligro": "12",
+            "codRiesgo": "12",
+            "peligro": "Neblina acidas",
+            "riesgo": "Exposicion directa"
+        },
+        {
+            "codPeligro": "13",
+            "codRiesgo": "13",
+            "peligro": "Neblina ",
+            "riesgo": "Exposicion"
+        },
+        {
+            "codPeligro": "14",
+            "codRiesgo": "14",
+            "peligro": "Neblina acidas 1232",
+            "riesgo": "Exposicion directa 3r34gf54"
+        },
+        {
+            "codPeligro": "15",
+            "codRiesgo": "15",
+            "peligro": "Neblina acidas k9ol90pñl",
+            "riesgo": "Exposicion directa 9o9ol90ñl"
+        },
+        {
+            "codPeligro": "16",
+            "codRiesgo": "16",
+            "peligro": "Neblina acidas12c32c3c",
+            "riesgo": "Exposicion directa cc123c3c12"
+        }
+
+
+    ],
+    "Count": 16
+}

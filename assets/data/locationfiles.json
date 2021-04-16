@@ -1,0 +1,54 @@
+{
+    "Data": [{
+            "label": "Mantenimiento mina",
+            "data": "1",
+            "children": [{
+                    "label": "Sub ubicacion 1",
+                    "data": "1.1",
+                    "children": [{
+                            "label": "Ubicacion especifica 1",
+                            "data": "1.1.1"
+                        },
+
+                        { "label": "Ubicacion especifica 2", "data": "1.1.2" },
+
+
+
+                        { "label": "Ubicacion especifica 3", "data": "1.1.3" },
+                        { "label": "Ubicacion especifica 4", "data": "1.1.4" },
+                        { "label": "Ubicacion especifica 5", "data": "1.1.5" }
+
+                    ]
+                },
+
+                { "label": "Sub ubicacion 2 ", "data": "1.2" },
+                { "label": "Sub ubicacion 3", "data": "1.3" },
+                { "label": "Sub ubicacion 4", "data": "1.4" }
+
+
+
+            ]
+        },
+        {
+            "label": "General",
+            "data": "2",
+            "children": [
+                { "label": "Sub ubicacion 1", "data": "2.1" },
+
+                { "label": "Sub ubicacion 2", "data": "2.2" }
+            ]
+        },
+        {
+            "label": "TI",
+            "data": "3",
+            "children": [
+                { "label": "Sub ubicacion 1", "data": "3.1" },
+
+                { "label": "Sub ubicacion 2", "data": "3.2" }
+            ]
+        }
+
+    ],
+    "Count": 0
+
+}

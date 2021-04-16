@@ -1,0 +1,382 @@
+{
+	"observaciones": [
+		{
+			"codObservacion": "OBS0000000001",
+			"codPosicionGer": "1",
+			"codPosicionSup": "1",
+			"codAreaHsec": "003",
+			"codTipoObservacion": "Tarea",
+			"codSubTipoObs": "1",
+			"codNivelRiesgo": "MEL",
+			"codObservadoPor": "01",
+			"fechaObservacion": "2020-02-02",
+			"horaObservacion": "15:00",
+			"codUbicacion": "04",
+			"codSubUbicacion": "04.01",
+			"codUbicacionEspecifica": "04.01.01",
+			"desUbicacion": "facebook",
+			"tarea": {
+				"codObservacion": "OBS0000000004",
+				"codObservacion": null,
+				"tareaObservada": "esto es una tarea",
+				"pet": "23SFD",
+				"codActiRelacionada": "01",
+				"codHha": "01",
+				"codErrorObs": "01",
+				"codEstadoObs": "01",
+				"desConclusiones": "esto es un decripcion de base",
+				"desConclusionesfeedback": "conclucion con fedback",
+				"desConclusionesProModi": "conclucion modi",
+				"comenRecoOpor": "tarea",
+				"codStopWork": "01",
+				"registroEncuestas": [
+					{
+						"codRespuesta": "03",
+						"codPregunta": "1"
+					},
+					{
+						"codRespuesta": "01",
+						"codPregunta": "2"
+					}
+				],
+				"comentarios": [
+					{
+						"codTipoComentario": "12",
+						"descripcion": "esto en mi primer comentario"
+					},
+					{
+						"codTipoComentario": "13",
+						"descripcion": "esto en mi segundo comentario"
+					}
+				],
+				"etapaTareas": [
+					{
+						"tituloEtapaTarea": "titulo de prueba",
+						"descripcionEtapaTarea": "esto es un descripcion algo "
+					},
+					{
+						"tituloEtapaTarea": "titulo etapa2",
+						"descripcionEtapaTarea": "esto es un descripcion algo 445"
+					}
+				],
+				"personaObservadas": [
+					{
+						"codPersonaMiembro": "S373451234",
+						"codObservacion": "OBS0000000004"
+					},
+					{
+						"codPersonaMiembro": "S473451234",
+						"codObservacion": "OBS0000000004"
+					}
+				]
+			},
+			"iteraccionSeguridad": null,
+			"comportamiento": null,
+			"condicion": null
+		},
+		{
+			"codObservacion": "OBS0000000002",
+			"codPosicionGer": "1",
+			"codPosicionSup": "1",
+			"codAreaHsec": "003",
+			"codTipoObservacion": "Tarea",
+			"codSubTipoObs": "1",
+			"codNivelRiesgo": "MEL",
+			"codObservadoPor": "01",
+			"fechaObservacion": "2020-02-02",
+			"horaObservacion": "15:00",
+			"codUbicacion": "04",
+			"codSubUbicacion": "04.01",
+			"codUbicacionEspecifica": "04.01.01",
+			"desUbicacion": "facebook",
+			"tarea": {
+				"codObservacion": "OBS0000000004",
+				"codObservacion": null,
+				"tareaObservada": "esto es una tarea",
+				"pet": "23SFD",
+				"codActiRelacionada": "01",
+				"codHha": "01",
+				"codErrorObs": "01",
+				"codEstadoObs": "01",
+				"desConclusiones": "esto es un decripcion de base",
+				"desConclusionesfeedback": "conclucion con fedback",
+				"desConclusionesProModi": "conclucion modi",
+				"comenRecoOpor": "tarea",
+				"codStopWork": "01",
+				"registroEncuestas": [
+					{
+						"codRespuesta": "03",
+						"codPregunta": "1"
+					},
+					{
+						"codRespuesta": "01",
+						"codPregunta": "2"
+					}
+				],
+				"comentarios": [
+					{
+						"codTipoComentario": "12",
+						"descripcion": "esto en mi primer comentario"
+					},
+					{
+						"codTipoComentario": "13",
+						"descripcion": "esto en mi segundo comentario"
+					}
+				],
+				"etapaTareas": [
+					{
+						"tituloEtapaTarea": "titulo de prueba",
+						"descripcionEtapaTarea": "esto es un descripcion algo "
+					},
+					{
+						"tituloEtapaTarea": "titulo etapa2",
+						"descripcionEtapaTarea": "esto es un descripcion algo 445"
+					}
+				],
+				"personaObservadas": [
+					{
+						"codPersonaMiembro": "S373451234",
+						"codObservacion": "OBS0000000004"
+					},
+					{
+						"codPersonaMiembro": "S473451234",
+						"codObservacion": "OBS0000000004"
+					}
+				]
+			},
+			"iteraccionSeguridad": null,
+			"comportamiento": null,
+			"condicion": null
+		},
+		{
+			"codObservacion": "OBS0000000003",
+			"codPosicionGer": "1",
+			"codPosicionSup": "1",
+			"codAreaHsec": "003",
+			"codTipoObservacion": "Tarea",
+			"codSubTipoObs": "1",
+			"codNivelRiesgo": "MEL",
+			"codObservadoPor": "01",
+			"fechaObservacion": "2020-02-02",
+			"horaObservacion": "15:00",
+			"codUbicacion": "04",
+			"codSubUbicacion": "04.01",
+			"codUbicacionEspecifica": "04.01.01",
+			"desUbicacion": "facebook",
+			"tarea": {
+				"codObservacion": "OBS0000000004",
+				"codObservacion": null,
+				"tareaObservada": "esto es una tarea",
+				"pet": "23SFD",
+				"codActiRelacionada": "01",
+				"codHha": "01",
+				"codErrorObs": "01",
+				"codEstadoObs": "01",
+				"desConclusiones": "esto es un decripcion de base",
+				"desConclusionesfeedback": "conclucion con fedback",
+				"desConclusionesProModi": "conclucion modi",
+				"comenRecoOpor": "tarea",
+				"codStopWork": "01",
+				"registroEncuestas": [
+					{
+						"codRespuesta": "03",
+						"codPregunta": "1"
+					},
+					{
+						"codRespuesta": "01",
+						"codPregunta": "2"
+					}
+				],
+				"comentarios": [
+					{
+						"codTipoComentario": "12",
+						"descripcion": "esto en mi primer comentario"
+					},
+					{
+						"codTipoComentario": "13",
+						"descripcion": "esto en mi segundo comentario"
+					}
+				],
+				"etapaTareas": [
+					{
+						"tituloEtapaTarea": "titulo de prueba",
+						"descripcionEtapaTarea": "esto es un descripcion algo "
+					},
+					{
+						"tituloEtapaTarea": "titulo etapa2",
+						"descripcionEtapaTarea": "esto es un descripcion algo 445"
+					}
+				],
+				"personaObservadas": [
+					{
+						"codPersonaMiembro": "S373451234",
+						"codObservacion": "OBS0000000004"
+					},
+					{
+						"codPersonaMiembro": "S473451234",
+						"codObservacion": "OBS0000000004"
+					}
+				]
+			},
+			"iteraccionSeguridad": null,
+			"comportamiento": null,
+			"condicion": null
+		},
+		{
+			"codObservacion": "OBS0000000004",
+			"codPosicionGer": "1",
+			"codPosicionSup": "1",
+			"codAreaHsec": "003",
+			"codTipoObservacion": "Tarea",
+			"codSubTipoObs": "1",
+			"codNivelRiesgo": "MEL",
+			"codObservadoPor": "01",
+			"fechaObservacion": "2020-02-02",
+			"horaObservacion": "15:00",
+			"codUbicacion": "04",
+			"codSubUbicacion": "04.01",
+			"codUbicacionEspecifica": "04.01.01",
+			"desUbicacion": "facebook",
+			"tarea": {
+				"codObservacion": "OBS0000000004",
+				"codObservacion": null,
+				"tareaObservada": "esto es una tarea",
+				"pet": "23SFD",
+				"codActiRelacionada": "01",
+				"codHha": "01",
+				"codErrorObs": "01",
+				"codEstadoObs": "01",
+				"desConclusiones": "esto es un decripcion de base",
+				"desConclusionesfeedback": "conclucion con fedback",
+				"desConclusionesProModi": "conclucion modi",
+				"comenRecoOpor": "tarea",
+				"codStopWork": "01",
+				"registroEncuestas": [
+					{
+						"codRespuesta": "03",
+						"codPregunta": "1"
+					},
+					{
+						"codRespuesta": "01",
+						"codPregunta": "2"
+					}
+				],
+				"comentarios": [
+					{
+						"codTipoComentario": "12",
+						"descripcion": "esto en mi primer comentario"
+					},
+					{
+						"codTipoComentario": "13",
+						"descripcion": "esto en mi segundo comentario"
+					}
+				],
+				"etapaTareas": [
+					{
+						"tituloEtapaTarea": "titulo de prueba",
+						"descripcionEtapaTarea": "esto es un descripcion algo "
+					},
+					{
+						"tituloEtapaTarea": "titulo etapa2",
+						"descripcionEtapaTarea": "esto es un descripcion algo 445"
+					}
+				],
+				"personaObservadas": [
+					{
+						"codPersonaMiembro": "S373451234",
+						"codObservacion": "OBS0000000004"
+					},
+					{
+						"codPersonaMiembro": "S473451234",
+						"codObservacion": "OBS0000000004"
+					}
+				]
+			},
+			"iteraccionSeguridad": null,
+			"comportamiento": null,
+			"condicion": null
+		},
+		{
+			"codObservacion": "OBS0000000005",
+			"codPosicionGer": "1",
+			"codPosicionSup": "1",
+			"codAreaHsec": "003",
+			"codTipoObservacion": "Condicion",
+			"codSubTipoObs": "1",
+			"codNivelRiesgo": "MEL",
+			"codObservadoPor": "01",
+			"fechaObservacion": "2020-02-02",
+			"horaObservacion": "15:00",
+			"codUbicacion": "04",
+			"codSubUbicacion": "04.01",
+			"codUbicacionEspecifica": "04.01.01",
+			"desUbicacion": "facebook",
+			"tarea": {
+				"codObservacion": "OBS0000000004",
+				"codObservacion": null,
+				"tareaObservada": "esto es una tarea",
+				"pet": "23SFD",
+				"codActiRelacionada": "01",
+				"codHha": "01",
+				"codErrorObs": "01",
+				"codEstadoObs": "01",
+				"desConclusiones": "esto es un decripcion de base",
+				"desConclusionesfeedback": "conclucion con fedback",
+				"desConclusionesProModi": "conclucion modi",
+				"comenRecoOpor": "tarea",
+				"codStopWork": "01",
+				"registroEncuestas": [
+					{
+						"codRespuesta": "03",
+						"codPregunta": "1"
+					},
+					{
+						"codRespuesta": "01",
+						"codPregunta": "2"
+					}
+				],
+				"comentarios": [
+					{
+						"codTipoComentario": "12",
+						"descripcion": "esto en mi primer comentario"
+					},
+					{
+						"codTipoComentario": "13",
+						"descripcion": "esto en mi segundo comentario"
+					}
+				],
+				"etapaTareas": [
+					{
+						"tituloEtapaTarea": "titulo de prueba",
+						"descripcionEtapaTarea": "esto es un descripcion algo "
+					},
+					{
+						"tituloEtapaTarea": "titulo etapa2",
+						"descripcionEtapaTarea": "esto es un descripcion algo 445"
+					}
+				],
+				"personaObservadas": [
+					{
+						"codPersonaMiembro": "S373451234",
+						"codObservacion": "OBS0000000004"
+					},
+					{
+						"codPersonaMiembro": "S473451234",
+						"codObservacion": "OBS0000000004"
+					}
+				]
+			},
+			"iteraccionSeguridad": null,
+			"comportamiento": null,
+			"condicion": {
+				"CondObservada": " esto es un texto para describir",
+				"CondAccionInmediata": "esto es un segundoi texto de textos",
+				"CodActiRelacionada": "1",
+				"CodHha": "2",
+				"CodCondicionSubEstandar": "3",
+				"CodStopWork": "1",
+				"CodCorreccion": "1"
+			}
+		}
+	]
+}

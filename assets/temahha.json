@@ -1,0 +1,33 @@
+{
+    "Data": [{
+
+         "code" : "1",
+         "descripcion" : "FHP 1. Aislamiento y bloqueo de energia",
+         "codeHHA": "11"
+        },
+        {
+            "code" : "2",
+            "descripcion" : "FHP 16. Seguridad con herramientas manuales",
+            "codeHHA": "05"
+        },
+
+        {
+            "code" : "3",
+            "descripcion" : "Seguridad en la oficina",
+            "codeHHA": "24"
+        },
+
+        {
+            "code" : "4",
+            "descripcion" : "Trabajos con exposicion a energías",
+            "codeHHA": "16"
+        },
+        {
+            "code" : "5",
+            "descripcion" : "Fisioterapia y Rehabilitacion",
+            "codeHHA": "16"
+        }
+
+    ],
+    "Count": 0
+}

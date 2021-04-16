@@ -1,0 +1,190 @@
+[
+	{
+		"id": "001",
+		"name": "Metodologia de gestión de riesgos aplicada antes del inicio de la tarea o actividad",
+		"page": "1",
+		"data": [
+			{
+				"id": "1",
+				"descripcion": "Permiso de trabajo"
+			},
+			{
+				"id": "2",
+				"descripcion": "PET(Procedimiento escrito de trabajo)"
+			},
+			{
+				"id": "3",
+				"descripcion": "AST(Análisis de Seguridad en el trabajo)"
+			}
+		]
+	},
+	{
+		"id": "002",
+		"name": " Actividad de Alto riesgo identificada",
+		"page": "1",
+		"data": [
+			{
+				"id": "4",
+				"descripcion": "Aislamiento y Bloqueo de energía"
+			},
+			{
+				"id": "5",
+				"descripcion": "Trabajo en altura"
+			},
+			{
+				"id": "6",
+				"descripcion": "Trabajo en Espacios confinados"
+			},
+			{
+				"id": "7",
+				"descripcion": "Operación de Equipos móviles"
+			},
+			{
+				"id": "8",
+				"descripcion": "Trabajo en zonas con riesgo de Falla del terreno (Incluye excavaciones)"
+			},
+			{
+				"id": "9",
+				"descripcion": "Seguridad eléctrica"
+			},
+			{
+				"id": "10",
+				"descripcion": "Respuesta ante emergencias"
+			},
+			{
+				"id": "11",
+				"descripcion": "Izaje y Levantamiento de carga"
+			},
+			{
+				"id": "12",
+				"descripcion": "Trabajo con riesgo de Incendio y explosión (Trabajo en Caliente)"
+			},
+			{
+				"id": "13",
+				"descripcion": "Manipulación de Explosivos y Voladura"
+			},
+			{
+				"id": "14",
+				"descripcion": "Uso y Mantenimiento de Neumaticos y Aros"
+			},
+			{
+				"id": "15",
+				"descripcion": "Trabajo con riesgo de Irrupción"
+			},
+			{
+				"id": "16",
+				"descripcion": "Manipulación de sustancias químicas"
+			},
+			{
+				"id": "17",
+				"descripcion": "N/A"
+			},
+			{
+				"id": "18",
+				"descripcion": "Actividades de Riesgo"
+			},
+			{
+				"id": "19",
+				"descripcion": "Higiene Ocupacional"
+			},
+			{
+				"id": "20",
+				"descripcion": "Aislamiento y Bloqueo"
+			},
+			{
+				"id": "21",
+				"descripcion": "Izaje y levantamiento de Carga"
+			},
+			{
+				"id": "22",
+				"descripcion": "Otros"
+			},
+			{
+				"id": "23",
+				"descripcion": "Trabajo en medio acuático (Presa de Relaves)"
+			},
+			{
+				"id": "24",
+				"descripcion": "Operación de herramientas rotativas"
+			},
+			{
+				"id": "25",
+				"descripcion": "Manejo de Fuentes Radiactivas"
+			},
+			{
+				"id": "26",
+				"descripcion": "Trabajo con Herramientas rotativas"
+			}
+		]
+	},
+	{
+		"id": "003",
+		"name": "Clasificación de la observación",
+		"page": "1",
+		"data": [
+			{
+				"id": "3",
+				"descripcion": "Comportamiento seguro"
+			},
+			{
+				"id": "5",
+				"descripcion": "Comportamiento de riesgo"
+			},
+			{
+				"id": "29",
+				"descripcion": "Condición segura"
+			},
+			{
+				"id": "30",
+				"descripcion": "Condición insegura"
+			}
+		]
+	},
+	{
+		"id": "004",
+		"name": "Comportamiento/Condición relacionado con:",
+		"page": "1",
+		"data": [
+			{
+				"id": "41",
+				"descripcion": "Competencias"
+			},
+			{
+				"id": "5",
+				"descripcion": "Condiciones de Trabajo"
+			},
+			{
+				"id": "33",
+				"descripcion": "Otro"
+			},
+			{
+				"id": "34",
+				"descripcion": "Salud e Higiene"
+			},
+			{
+				"id": "35",
+				"descripcion": "Posición de las personas"
+			},
+			{
+				"id": "36",
+				"descripcion": "Valores de GLencore"
+			},
+			{
+				"id": "37",
+				"descripcion": "Medio Ambiente"
+			},
+			{
+				"id": "38",
+				"descripcion": "Orden y limpieza"
+			},
+			{
+				"id": "39",
+				"descripcion": "Herramientas y equipos"
+			},
+			{
+				"id": "70",
+				"descripcion": "Aptitud para el trabajo"
+			}
+		]
+	}
+]

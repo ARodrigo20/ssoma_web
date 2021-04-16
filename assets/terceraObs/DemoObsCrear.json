@@ -1,0 +1,40 @@
+{
+	"codObservadoPor": "0*09666813",
+	"codAreaHsec": "003",
+	"codNivelRiesgo": "BA",
+	"fechaObservacion": "2020-02-13",
+	"horaObservacion": "05:21",
+	"codUbicacion": "1",
+	"codSubUbicacion": "1",
+	"codUbicacionEspecifica": "1",
+	"desUbicacion": "tipoCausa",
+	"codTipoObservacion": "Tarea",
+	"comportamiento": null,
+	"tarea": {
+		"etapaTareas": [{"tituloEtapaTarea": "tipoCausa", "descripcionEtapaTarea": "tipoCausa"}],
+		"comentarios": [{"codTipoComentario": "tipoCausa", "descripcion": "tipoCausa"}],
+		"registroEncuestas": [
+			{"codPregunta": "1", "codRespuesta": "01"},
+			{"codPregunta": "2", "codRespuesta": "01"},
+			{"codPregunta": "3", "codRespuesta": "01"},
+			{"codPregunta": "4", "codRespuesta": "00"},
+			{"codPregunta": "5", "codRespuesta": "00"},
+			{"codPregunta": "6", "codRespuesta": "01"},
+			{"codPregunta": "7", "codRespuesta": "01"},
+			{"codPregunta": "8", "codRespuesta": "01"}
+		],
+		"personaObservadas": ["0000000002", "0*09666813", "0*06957573"],
+		"tareaObservada": "tipoCausa",
+		"pet": "tipoCausa",
+		"codActiRelacionada": "21",
+		"codHha": "15",
+		"codEstadoObs": "04",
+		"codErrorObs": "05",
+		"codStopWork": "SW02",
+		"comenRecoOpor": "tipoCausa"
+	},
+	"iteraccionSeguridad": null,
+	"condicion": null,
+	"codPosicionGer": "1",
+	"codPosicionSup": "1"
+}

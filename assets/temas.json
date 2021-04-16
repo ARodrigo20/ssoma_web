@@ -1,0 +1,40 @@
+{
+    "data": [
+        {
+            "codTemaCapacita": 1,
+            "codTipoTema": "03",
+            "codAreaCapacita": "ACA00000001",
+            "descripcion": "hola mundo",
+            "competenciaHs": "1",
+            "codHha": "01",
+            "estado": true,
+            "capacitacionEsp": []
+        },
+        {
+            "codTemaCapacita": 3,
+            "codTipoTema": "01",
+            "codAreaCapacita": "ACA00000002",
+            "descripcion": "hola mundo xD",
+            "competenciaHs": "3",
+            "codHha": "05",
+            "estado": true,
+            "capacitacionEsp": [
+                {
+                    "correlativo": 6,
+                    "codTemaCapacita": 3,
+                    "codPeligro": "10",
+                    "codRiesgo": "10",
+                    "estado": true
+                },
+                {
+                    "correlativo": 7,
+                    "codTemaCapacita": 3,
+                    "codPeligro": "13",
+                    "codRiesgo": "13",
+                    "estado": true
+                }
+            ]
+        }
+    ],
+    "Count": 2
+}

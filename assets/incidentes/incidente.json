@@ -1,0 +1,33 @@
+{
+	"datosGenerales": {
+		"codAreaHsec": "2",
+		"codSubTipoIncidente": {"data": "02.002", "children": []},
+		"codTipoIncidente": "02",
+		"codClasificaInci": "5",
+		"codClasiPotencial": "2",
+		"codLesAper": "2",
+		"codActiRelacionada": "41",
+		"codHha": "5",
+		"codTituloInci": "049",
+		"descripcionIncidente": "adas",
+		"codProveedor": "11",
+		"codTurno": "DIA",
+		"horaDelSuceso": "06:22",
+		"codSubUbicacion": "02.02",
+		"codUbicacionEspecifica": "02.02.01",
+		"codUbicacion": "02",
+		"codRespProveedor": "0 46722513",
+		"codRespSuperint": "2"
+	},
+	"afectadosDescipcionesAcciones": {
+		"afectados": [
+			{
+				"tipoAfectado": 4,
+				"comunidad": {"codComuAfec": "4", "codMotivo": "06", "descripcion": "dasdasd"}
+			}
+		],
+		"desSuceso": "aaaaaaaaaaa",
+		"desDanioLesImpacPerd": "bbbbbbbbbbb",
+		"accInmediatas": "ccccccccccccc"
+	}
+}

@@ -1,0 +1,93 @@
+{
+	"name": "Causas Básicas",
+	"pages": "3",
+	"next": null,
+	"page": "3",
+	"prev": "assets/data/segundav2/causasVersionFinal.json",
+	"causalidad": [
+		{
+			"id": "50",
+			"tipoCausa": "Causas Basicas :v",
+			"condicion": "sistema/cultura",
+			"causa": "Basicas50",
+			"comentario": ""
+		},
+		{
+			"id": "51",
+			"tipoCausa": "Causas Basicas",
+			"condicion": "sistema/cultura",
+			"causa": "Basicas51",
+			"comentario": ""
+		},
+		{
+			"id": "52",
+			"tipoCausa": "Causas Basicas",
+			"condicion": "sistema/cultura",
+			"causa": "Basicas52",
+			"comentario": ""
+		},
+		{
+			"id": "53",
+			"tipoCausa": "Causas Basicas",
+			"condicion": "sistema/cultura",
+			"causa": "Basicas53",
+			"comentario": ""
+		},
+		{
+			"id": "54",
+			"tipoCausa": "Causas Basicas",
+			"condicion": "sistema/cultura",
+			"causa": "Basicas54",
+			"comentario": ""
+		},
+		{
+			"id": "55",
+			"tipoCausa": "Causas Basicas",
+			"condicion": "sistema/cultura",
+			"causa": "Basicas55",
+			"comentario": ""
+		},
+		{
+			"id": "56",
+			"tipoCausa": "Causas Basicas",
+			"condicion": "sistema/cultura",
+			"causa": "Basicas56",
+			"comentario": ""
+		},
+		{
+			"id": "57",
+			"tipoCausa": "Causas Basicas",
+			"condicion": "sistema/cultura",
+			"causa": "Basicas57",
+			"comentario": ""
+		},
+		{
+			"id": "58",
+			"tipoCausa": "Causas Basicas",
+			"condicion": "sistema/cultura",
+			"causa": "Basicas58",
+			"comentario": ""
+		},
+		{
+			"id": "59",
+			"tipoCausa": "Causas Basicas",
+			"condicion": "sistema/cultura",
+			"causa": "Basicas59",
+			"comentario": ""
+		},
+		{
+			"id": "60",
+			"tipoCausa": "Causas Basicas",
+			"condicion": "sistema/cultura",
+			"causa": "Basicas60",
+			"comentario": ""
+		},
+		{
+			"id": "61",
+			"tipoCausa": "Causas Basicas",
+			"condicion": "sistema/cultura",
+			"causa": "Basicas61",
+			"comentario": ""
+		}
+	]
+}

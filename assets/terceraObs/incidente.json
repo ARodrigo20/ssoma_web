@@ -1,0 +1,102 @@
+{
+	"codIncidente": null,
+	"codTabla": null,
+	"datosGenerales": {
+		"codAreaHsec": "3",
+		"codTipoIncidente": "02",
+		"codSubTipoIncidente": "02.002",
+		"codClasificaInci": "5",
+		"codClasiPotencial": "2",
+		"codLesAper": "2",
+		"codActiRelacionada": "41",
+		"codHha": "5",
+		"fechaDelSuceso": null,
+		"horaDelSuceso": "06:22",
+		"codTurno": "DIA",
+		"codTituloInci": "049",
+		"descripcionIncidente": "adas",
+		"codPosicionGer": null,
+		"codPosicionSup": null,
+		"codRespGerencia": null,
+		"codRespSuperint": "2",
+		"codProveedor": "11",
+		"codRespProveedor": "0000000002",
+		"codPerReporta": null,
+		"codUbicacion": "01",
+		"codSubUbicacion": "01.02",
+		"codUbicacionEspecifica": "01.02.02",
+		"desUbicacion": null,
+		"codMedioAmbiente": null
+	},
+	"afectadosDescipcionesAcciones": {
+		"afectados": [
+			{
+				"tipoAfectado": 4,
+				"persona": null,
+				"propiedad": null,
+				"medioAmbiente": null,
+				"comunidad": {
+					"codComuAfec": "4",
+					"codMotivo": "06",
+					"descripcion": "dasdasd",
+					"correlativo": 1
+				}
+			},
+			{
+				"tipoAfectado": 2,
+				"propiedad": {
+					"codTipActivo": "3",
+					"codActivo": "asdfasdf",
+					"operador": "S0020031681",
+					"descripcion": "asdf",
+					"dano": "asdfasf",
+					"monto": "13"
+				}
+			}
+		],
+		"desSuceso": "aaaaaa",
+		"desDanioLesImpacPerd": "bbbbbbbbbb",
+		"accInmediatas": "ccccccccccccc"
+	},
+	"detalle": {
+		"testigosInvolucrados": [
+			{"codPersona": "0000000002", "descripcion": null, "manifestacion": null},
+			{"codPersona": "0000000027", "descripcion": null, "manifestacion": null},
+			{"codPersona": "0000000024", "descripcion": null, "manifestacion": null},
+			{"codPersona": "0000000023", "descripcion": null, "manifestacion": null}
+		],
+		"equipoInvestigacion": [
+			{"codPersona": "00000....9", "lider": false, "areaDes": null},
+			{"codPersona": "00•0998642", "lider": false, "areaDes": null},
+			{"codPersona": "0000..Ñ.45", "lider": true, "areaDes": null}
+		],
+		"secuenciaEventos": [{"orden": 0, "evento": "asdasdasd"}],
+		"resumenInfMedico": "dddddddddddd",
+		"conclusiones": "aaaaaaa",
+		"aprendizajes": "aaaaaaaaaaaa",
+		"oculto": null
+	},
+	"analisisCausalidad": [],
+	"icam": [
+		{
+			"codTipoIcamfactOrg": "faaaa",
+			"factOrg": "aaaaaaa",
+			"codTipoCondEntIcam": "fasfa",
+			"condEnt": "aaaaaaa",
+			"codTipoAccEquipIcam": "fasf",
+			"accEquip": "aaaaaa",
+			"codTipoDefenAusen": "afaf",
+			"defenAusen": "aaaaaaaaaaaaa"
+		},
+		{
+			"codTipoIcamfactOrg": "bbbbbb",
+			"factOrg": "b",
+			"codTipoCondEntIcam": "bbbbb",
+			"condEnt": "b",
+			"codTipoAccEquipIcam": "bbbbbb",
+			"accEquip": "b",
+			"codTipoDefenAusen": "bbbbbb",
+			"defenAusen": "b"
+		}
+	]
+}

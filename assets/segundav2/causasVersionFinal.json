@@ -1,0 +1,135 @@
+{
+	"name": "todo",
+	"pages": "3",
+	"next": "assets/data/segundav2/causasVersionFinal2.json",
+	"page": "1",
+	"prev": "",
+	"causalidad": [
+		{
+			"id": "19",
+			"tipoCausa": "Causas Básicas - Factor Personal",
+			"condicion": "Acciones SubEstandar",
+			"causa": "Operar equipos sin autorización",
+			"comentario": ""
+		},
+		{
+			"id": "20",
+			"tipoCausa": "Causas Inmediatas",
+			"condicion": "Acciones SubEstandar",
+			"causa": "Defensas",
+			"comentario": ""
+		},
+		{
+			"id": "21",
+			"tipoCausa": "Causas Inmediatas",
+			"condicion": "Acciones SubEstandar",
+			"causa": "Posición Inadecuada para el Trabajo o la Tarea",
+			"comentario": ""
+		},
+		{
+			"id": "22",
+			"tipoCausa": "Causas Inmediatas",
+			"condicion": "Acciones SubEstandar",
+			"causa": "Defensas",
+			"comentario": ""
+		},
+		{
+			"id": "23",
+			"tipoCausa": "Causas Inmediatas",
+			"condicion": "Acciones SubEstandar",
+			"causa": "No Asegurar (No se establece el control necesario para el riesgo)",
+			"comentario": ""
+		},
+		{
+			"id": "24",
+			"tipoCausa": "Causas Inmediatas",
+			"condicion": "Acciones SubEstandar",
+			"causa": "Defensas",
+			"comentario": ""
+		},
+		{
+			"id": "25",
+			"tipoCausa": "Causas Basicas",
+			"condicion": "sistema/cultura",
+			"causa": "Defensas",
+			"comentario": ""
+		},
+		{
+			"id": "26",
+			"tipoCausa": "Causas Basicas",
+			"condicion": "sistema/cultura",
+			"causa": "Defensas",
+			"comentario": ""
+		},
+		{
+			"id": "27",
+			"tipoCausa": "Causas Basicas",
+			"condicion": "sistema/cultura",
+			"causa": "Defensas",
+			"comentario": ""
+		},
+		{
+			"id": "28",
+			"tipoCausa": "Causas Basicas",
+			"condicion": "sistema/cultura",
+			"causa": "Defensas",
+			"comentario": ""
+		},
+		{
+			"id": "29",
+			"tipoCausa": "Causas Basicas",
+			"condicion": "sistema/cultura",
+			"causa": "Defensas",
+			"comentario": ""
+		},
+		{
+			"id": "30",
+			"tipoCausa": "Causas Basicas",
+			"condicion": "sistema/cultura",
+			"causa": "Defensas",
+			"comentario": ""
+		},
+		{
+			"id": "31",
+			"tipoCausa": "Causas Basicas",
+			"condicion": "sistema/cultura",
+			"causa": "Defensas",
+			"comentario": ""
+		},
+		{
+			"id": "32",
+			"tipoCausa": "Causas Basicas",
+			"condicion": "sistema/cultura",
+			"causa": "Defensas",
+			"comentario": ""
+		},
+		{
+			"id": "33",
+			"tipoCausa": "Causas Basicas",
+			"condicion": "sistema/cultura",
+			"causa": "Defensas",
+			"comentario": ""
+		},
+		{
+			"id": "34",
+			"tipoCausa": "Causas Basicas",
+			"condicion": "sistema/cultura",
+			"causa": "Defensas",
+			"comentario": ""
+		},
+		{
+			"id": "35",
+			"tipoCausa": "Causas Basicas",
+			"condicion": "sistema/cultura",
+			"causa": "Defensas",
+			"comentario": ""
+		},
+		{
+			"id": "36",
+			"tipoCausa": "Causas Basicas",
+			"condicion": "sistema/cultura",
+			"causa": "Defensas",
+			"comentario": ""
+		}
+	]
+}

@@ -1,0 +1,29 @@
+{
+    "Data": [{
+            "codPersona": "001",
+            "nombre": "Condori Sosa Juan David",
+            "fecInicio": "2019/12/28",
+            "fecFin": "4000/01/01",
+            "asignacion": "Primaria",
+            "tipoAsig": "Dinamico"
+        },
+        {
+            "codPersona": "002",
+            "nombre": "Chiat, Louis",
+            "fecInicio": "2019/12/28",
+            "fecFin": "4000/01/01",
+            "asignacion": "Primaria",
+            "tipoAsig": "Dinamico"
+        },
+
+        {
+            "codPersona": "003",
+            "nombre": "Taco Llave Matilde",
+            "fecInicio": "2019/12/28",
+            "fecFin": "4000/01/01",
+            "asignacion": "Primaria",
+            "tipoAsig": "Dinamico"
+        }
+    ],
+    "Count": 0
+}

@@ -1,0 +1,19 @@
+{
+	"items": [
+		{"label": "Ingeniería Inadecuada", "value": "1"},
+		{"label": "Capacidad mental / psicológica inadecuada", "value": "2"},
+		{"label": "SISTEMA/CULTURA", "value": "3"},
+		{"label": "Herramientas y Equipo Inadecuados", "value": "4"},
+		{"label": "Mantenimiento Inadecuado", "value": "5"},
+		{"label": "Compras y Adquisiciones Inadecuadas", "value": "6"},
+		{"label": "Liderazgo y/o Supervisión inadecuados", "value": "7"},
+		{"label": "Estrés Físico o fisiológico", "value": "8"},
+		{"label": "Falta de habilidad", "value": "9"},
+		{"label": "Desgaste excesivo", "value": "10"},
+		{"label": "Falta de Conocimiento", "value": "11"},
+		{"label": "Motivación Inapropiada", "value": "12"},
+		{"label": "Procedimientos y Normas de trabajo Inadecuados", "value": "13"},
+		{"label": "Estrés Mental o Psicológico", "value": "14"},
+		{"label": "Abuso o Mal Uso", "value": "15"}
+	]
+}
